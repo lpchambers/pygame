@@ -1,0 +1,8 @@
+TKINTER
+[yum|dnf] install python3-tkinter
+
+
+PYGAME
+sudo yum install python-devel SDL_image-devel SDL_mixer-devel SDL_ttf-devel SDL-devel smpeg-devel numpy subversion portmidi-devel 
+wget http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
+
